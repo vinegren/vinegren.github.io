@@ -1,5 +1,6 @@
 ---
-layout: post
+categories: jekyll update
+permalink: /:categories/:title
 ---
 
 Some Content
