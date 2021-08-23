@@ -17,7 +17,7 @@ This portfolio's main purpose is to present projects implemented during my studi
 Culmination of the studies was my thesis work, where I explored novel Soma Design method informing design of the virtual experience through my own body. An immersive experience Sound Globe was created using Soma Design as
 a part of this research through design study. The experience extends user's
 presence into a virtual environment where they can touch the Sound Globe,
-and by moving expressively produce music. Designe with Unity and executed as a stereoscopic projection. More information.
+and by moving expressively produce music. Designe with Unity and executed as a stereoscopic projection.
 
 <div class="videoWrapper"  style="--aspect-ratio: 3 / 4;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/z9IyTjTnHhk?controls=1&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
