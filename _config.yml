@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This portfolio’s main purpose is to present projects implemented during my studies
    for Master degree in “Design for Immersive and Creative Technologies” at Stockholm
     University years 2019-2021. In all of the projects I took equally active part in
-     ideation and was responsible for implementation in Unity.
+     ideation and was a key responsible for implementation in Unity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
