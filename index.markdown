@@ -22,7 +22,7 @@ presence into a virtual environment where they can touch the Sound Globe,
 and by moving expressively produce music. Designe with Unity and executed as a stereoscopic projection.
 
 <div class="videoWrapper"  style="--aspect-ratio: 3 / 4;">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/z9IyTjTnHhk?controls=1&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/UoM37ABLxq4?controls=1&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 <br>
